@@ -20,4 +20,7 @@ Objetivos: projetar um estacionamento usando princípios orientados a objetos
 - Uma van pode estacionar, mas ocupará 3 vagas de carro, ou uma vaga grande
 - Essas são apenas algumas orientações. Sinta-se à vontade para perguntar ao seu entrevistador sobre mais, conforme necessário
 
+# Exemplo:
+
+![Captura de Tela 2023-06-08 às 22 33 00](https://github.com/Hianuy/ParkingChallenge/assets/30296650/e9f411cf-05a0-4bcb-b3d3-f54c9757370c)
 
